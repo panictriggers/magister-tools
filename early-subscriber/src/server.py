@@ -50,7 +50,7 @@ class Magister:
         del self.username  
         
     def dispose(self):
-        self.browser.Dispose()
+        self.browser.quit()
         destroy_creds()
 
     def login(self):
