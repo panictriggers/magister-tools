@@ -9,3 +9,4 @@
 *.exe
 /early-subscriber/src/BrowserMob
 *.har
+*.zip
