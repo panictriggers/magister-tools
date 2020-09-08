@@ -41,7 +41,7 @@ Stel onze link is `https://nuovo.magister.net/api/personen/123456/activiteiten/6
 
 Zet de link op de volgende manier in het script:
 ```py
-link_queue = [Link("link", {"persoonId":"123456","activiteitId":"666","onderdeelId":"1234"})
+link_queue = [Link("link", {"persoonId":"123456","activiteitId":"666","onderdeelId":"1234"})]
 ```
 
 Mocht je meer links willen gebruiken, voeg dan een comma toe.
